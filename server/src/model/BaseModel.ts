@@ -1,2 +1,2 @@
-const test:string = 'ああああ小野田氏ね';
+const test:string = 'おはよう世界';
 console.log(test);
