@@ -11,7 +11,9 @@
   "author": "HiguchiRyuya",
   "license": "ISC",
   "dependencies": {
+    "@types/mysql": "^2.15.7",
     "@types/node": "^12.11.7",
+    "@types/ws": "^6.0.3",
     "mysql": "^2.17.1",
     "typescript": "^3.6.4",
     "ws": "^7.1.2"
